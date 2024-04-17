@@ -27,11 +27,6 @@ Rating System
 - Highlights unique contributions of each participant to nature conservation.
 - Awards certificates of appreciation and medals to top-performing companies.
 
-Educational Resources
-
-- Offers a wide array of educational materials on sustainable consumption habits and waste management methods.
-- Includes informational articles, videos, and interactive modules.
-
 Community Interaction
 
 - Serves as a central hub for discussions, events, and initiatives related to environmental sustainability.
