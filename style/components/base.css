@@ -1,0 +1,219 @@
+.wrapper {
+    overflow: hidden;
+}
+
+p {
+    font-size: 16px;
+    color: #0B1C3F;
+}
+
+h2 {
+    font-size: 28px;
+}
+
+.title {
+    color: #0B1C3F;
+    text-align: center;
+    margin: 45px 0;
+}
+
+.text {
+    font-size: 16px;
+    color: #0B1C3F;
+}
+
+.sub-title {
+    color: #0B1C3F;
+    font-size: 18px;
+    margin-bottom: 20px;
+    text-decoration: underline;
+}
+
+.social-media .fa-brands {
+    font-size: 32px;
+    margin: 0 5px;
+}
+
+.arrow {
+    color: #f2f2f2;
+    font-size: 25px;
+    text-align: center;
+    margin: 50px 0;
+}
+
+.bg {
+    background-image: url(../../images/trees-975091_1920.jpg);
+    background-size: cover;
+}
+
+.design-circle {
+    border: 5px solid #80FF00;
+    border-radius: 100%;
+
+    width: 175px;
+    height: 175px;
+    margin: 0 auto;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    margin-bottom: 15px;
+}
+
+.design-circle .fa-solid {
+    color: #0B1C3F;
+    font-size: 65px;
+}
+
+.form-group {
+    margin: 14px 0;
+}
+
+.form-check {
+    display: -webkit-box;
+}
+
+.form-check-input[type=checkbox] {
+    width: 15px;
+    height: 15px;
+
+    margin-right: 15px;
+    margin-top: 5px;
+
+    border-radius: 3px !important;
+    border-color: #0B1C3F;
+}
+
+input {
+    border-color: #0B1C3F !important;
+}
+
+.alert {
+    font-size: 16px;
+    width: 100%;
+
+    padding: .375rem .75rem;
+
+    margin-bottom: 5px;
+}
+
+.authentication {
+    display: flex;
+    align-items: center;
+    white-space: nowrap;
+}
+
+.block-border {
+    border: 1px solid #0B1C3F;
+    padding: 32px 56px;
+    border-radius: 12px;
+}
+
+.block-border p {
+    font-size: 28px;
+    color: #0B1C3F;
+}
+
+.block-private-account {
+    border-bottom: 1px solid #80FF00;
+    padding: 40px 0;
+}
+
+.voucher-bg {
+    background-image: url("../../images/pexels-lumn-167699.jpg");
+    transform: scale(-1, 1);
+    background-size: cover;
+}
+.form-bg {
+    background-image: url("../../images/barley-field-1684052_1280.jpg");
+    background-size: cover;
+}
+.green-points-bg {
+    border-radius: 12px;
+    background-image: url("../../images/pexels-peter-fazekas-1089451.jpg");
+    background-size: cover;
+}
+.certificate-bg {
+    background-image: url("../../images/pexels-sandy-140234.jpg");
+    background-size: cover;
+}
+
+.hero-form {
+    border-radius: 12px;
+    border: 1px solid #0B1C3F;
+}
+.hero-bg {
+    background-image: url("../../images/pexels-felix-mittermeier-957024.jpg");
+    background-size: cover;
+    border-radius: 12px;
+}
+
+.voucher-bg:hover, .green-points-bg:hover, .form-bg:hover {
+    border-color: #FF004D;
+}
+
+.radio-flex {
+    display: flex;
+    justify-content: space-between;
+    margin: 15px 0;
+    margin-bottom: 25px;
+}
+.form-check {
+    font-size: 16px;
+    color: #0B1C3F;
+}
+.form-check-label {
+    margin-left: 15px;
+    white-space: nowrap;
+}
+
+.pdf-container {
+    width: 100%;
+    height: 100%;
+    overflow: hidden; /* Убираем скролл внутри контейнера */
+}
+.pdf-object {
+    width: 100%;
+    height: 850px;
+}
+
+.fa-print:hover, .extra:hover {
+    color: #0B1C3F !important;
+}
+
+.block-extra {
+    border: 1px solid #80FF00;
+    border-radius: 12px;
+    padding: 25px;
+}
+
+.bg-support {
+    background-image: url("../../images/barley-field-1684052_1280.jpg");
+    background-size: cover;
+}
+.bg-about-us {
+    background-image: url("../../images/pexels-ricky-esquivel-3877660.jpg");
+    background-size: cover;
+}
+.bg-sustainability {
+    background-image: url("../../images/henry-be-IicyiaPYGGI-unsplash.jpg");
+    background-size: cover;
+}
+.p-sustainability {
+    font-size: 16px;
+    color: #0B1C3F;
+    text-align: justify;
+}
+.bg-membership {
+    background-image: url("../../images/abatract-sweet-color-cosmos-flowers-bokeh-texture-soft-blur-background-with-pastel-vintage-retro-style.jpg");
+    background-size: cover;
+}
+.bg-contact {
+    background-image: url("../../images/rodion-kutsaiev-tcPUbu8H2c0-unsplash.jpg");
+    background-size: cover;
+}
+.subscription-bg {
+    background-image: url("../../images/pexels-sandy-140234.jpg");
+    background-size: cover;
+}
